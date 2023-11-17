@@ -5,7 +5,7 @@ def get_database():
  
    # Provide the mongodb atlas url to connect python to mongodb using pymongo
    # Put your mongo database link here
-   CONNECTION_STRING = "mongodb://localhost:27017/"
+   CONNECTION_STRING = "YOUR_DATABASE"
  
    # Create a connection using MongoClient. You can import MongoClient or use pymongo.MongoClient
    db = MongoClient(CONNECTION_STRING)['perfume']

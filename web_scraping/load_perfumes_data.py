@@ -13,7 +13,7 @@ perfume_links_collection = db["perfume_link"]
 
 perfumes_queue = Queue()
 
-API_KEY = "c291cbb770da2844c4835b9ee44d8914"
+API_KEY = "YOUR_API"
 
 
 class bcolors:

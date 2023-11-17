@@ -19,7 +19,7 @@ unique_brands_collection = database["unique_brands"]
 # Collection where stores all unique perfumes from the brands in the "unique_brands_collection"
 prefume_links_collection = database["perfume_link"]
 
-API_KEY = "c291cbb770da2844c4835b9ee44d8914"
+API_KEY = "YOUR_API"
 
 class bcolors:
     HEADER = '\033[95m'
